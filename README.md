@@ -1,3 +1,5 @@
+#coursera第一部分提交整洁数据集，提交N次没有成功，所以提交至repo,为“tidydata.txt"
+
 1.step1原始数据集的生成(dt)：
 将x_train,subject_train,y_train用cbind连接，生成train
 将x_test,subject_test,y_test用cbind连接，生成test
